@@ -30,3 +30,28 @@
 ## PROBLEMA:
  - esse sistema é direcionado a funcionários de escolas
  - Permite cadastrar, editar, listar e deletar alunos, cursos, matriculas e funcionários.
+
+ ## Modelo de Negócios:
+  ![Business Model Canvas](images/Captura%20de%20tela%202026-08-25%20170634.png)
+
+  # REQUISITOS: 
+
+  ## 1. Requisitos Funcionais:
+
+  * Cadastrar alunos
+  * Cadastrar funcionários
+  * Cadastrar cursos
+  * Listar alunos
+  * Listar funcionários
+  * Listar cursos
+  * Matricular os alunos
+  * Mostrar dados do aluno
+  * Mostrar dados do curso
+  * Mostrar dados do funcionário
+  * Editar os dados do aluno
+  * Editar os dados do curso
+  * Editar os dados do funcionário
+  * Excluir os alunos
+  * Excluir os cursos
+  * Excluir os funcionários
+  * Cancelar matrículas
