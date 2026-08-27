@@ -34,24 +34,52 @@
  ## Modelo de Negócios:
   ![Business Model Canvas](images/Captura%20de%20tela%202026-08-25%20170634.png)
 
-  # REQUISITOS: 
+# REQUISITOS:
 
-  ## 1. Requisitos Funcionais:
+## Requisitos Funcionais:
 
-  * Cadastrar alunos
-  * Cadastrar funcionários
-  * Cadastrar cursos
-  * Listar alunos
-  * Listar funcionários
-  * Listar cursos
-  * Matricular os alunos
-  * Mostrar dados do aluno
-  * Mostrar dados do curso
-  * Mostrar dados do funcionário
-  * Editar os dados do aluno
-  * Editar os dados do curso
-  * Editar os dados do funcionário
-  * Excluir os alunos
-  * Excluir os cursos
-  * Excluir os funcionários
-  * Cancelar matrículas
+- Cadastrar alunos
+- Funcionários do cadastro
+- Cursos cadastrais
+- Listar alunos
+- Listar cursos
+- Listar funcionários
+- Mostrar os dados do aluno
+- Mostrar os dados do funcionário
+- Mostrar os dados do curso
+- Realizar as faixas
+- eu os dados do aluno
+- Editar os dados do funcionário
+- eu os dados do curso
+- Excluir os alunos
+- Excluir os funcionários
+- Excluir os cursos
+- Excluir as matrículas
+- Login de usuários
+- Buscar aluno pelo nome
+- Buscar aluno pelo CPF
+- Buscar funcionário pelo nome
+- Buscar funcionário prlo CPF
+- Mostrar cursos em que cada aluno está matriculado
+- Mostrar os alunos que estão matriculados em cada curso
+
+## Requisitos Não Funcionais:
+
+- Autenticação
+- Interface com navegação padronizada e consistente entre as telas
+- Interface responsiva e adaptável a diversas resoluções de tela e dispositivos diferentes, como computador, celular e tablet
+- Interface deve ser compatível com os principais navegadores web
+- Criptografar senhas antes de salvá-las no banco de dados
+- Disponivel durante todo o horário de funcionamento da instituição
+- Restringir acesso pelo tipo de usuário
+
+## REGRAS DE NEGÓCIO:
+
+- CPF de cada aluno deve ser único
+- CPF de cada funcionário deve ser único
+- o Email de cada funcionário deve ser único
+- A matrícula de cada aluno deve ser única
+- O nome de cada curso deve ser único
+- Impedir exclusao de cursos que tenham alunos matriculados
+- Impedir exclusão de alunos que estejam matriculados em 1 ou mais cursos
+-
