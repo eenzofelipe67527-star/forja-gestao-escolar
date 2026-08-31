@@ -59,7 +59,7 @@
 - Buscar aluno pelo nome
 - Buscar aluno pelo CPF
 - Buscar funcionário pelo nome
-- Buscar funcionário prlo CPF
+- Buscar funcionário pelo CPF
 - Mostrar cursos em que cada aluno está matriculado
 - Mostrar os alunos que estão matriculados em cada curso
 
