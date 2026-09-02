@@ -39,18 +39,18 @@
 ## Requisitos Funcionais:
 
 - Cadastrar alunos
-- Funcionários do cadastro
-- Cursos cadastrais
+- Cadastrar funcionários
+- Cadastrar cursos
 - Listar alunos
 - Listar cursos
 - Listar funcionários
 - Mostrar os dados do aluno
 - Mostrar os dados do funcionário
 - Mostrar os dados do curso
-- Realizar as faixas
-- eu os dados do aluno
+- Realizar as matrículas
+- Editar os dados do aluno
 - Editar os dados do funcionário
-- eu os dados do curso
+- Editar os dados do curso
 - Excluir os alunos
 - Excluir os funcionários
 - Excluir os cursos
@@ -60,7 +60,7 @@
 - Buscar aluno pelo CPF
 - Buscar funcionário pelo nome
 - Buscar funcionário pelo CPF
-- Mostrar cursos em que cada aluno está matriculado
+- Mostrar os cursos em que cada aluno está matriculado
 - Mostrar os alunos que estão matriculados em cada curso
 
 ## Requisitos Não Funcionais:
