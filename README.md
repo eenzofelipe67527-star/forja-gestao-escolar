@@ -83,3 +83,13 @@
 - Impedir exclusao de cursos que tenham alunos matriculados
 - Impedir exclusão de alunos que estejam matriculados em 1 ou mais cursos
 -
+
+## Sequências:
+- Login:
+![Login](Images/login.png)
+- Cadastro funcionário:
+![Cadastro funcionário](Images/diagrama-sequencia-cadastro-funcionario.png)
+- Cadastro aluno:
+![Cadastro funcionário](Images/diagrama-sequencia-cadastro-aluno.png)
+- Cadastro curso:
+![Cadastro funcionário](Images/diagrama-sequencia-cadastro-curso.png)
